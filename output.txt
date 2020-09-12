@@ -1,0 +1,347 @@
+
+/*
+########################################################################
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+				 OUTPUT
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+########################################################################
+*/
+
+/*
+
+
+				   PROJECT ON
+				   ~~~~~~~~~~
+
+			       HOSPITAL MANAGEMENT
+			       ~~~~~~~~~~~~~~~~~~~
+-------------------------------------------------------------------------------
+
+
+    PLEASE WAIT WHILE THE PROGRAM IS LOADING  .  .  .  .  .  .  .
+
+
+			       PROGRAM LOADED 
+			     ~~~~~~~~~~~~~~~~~~~~
+
+-------------------------------------------------------------------------------
+
+
+    SUBMITTED BY :-  ASHISH KUMAR
+
+		     KSHITIJ SAINI
+
+   SCHOOL :-  Oxford Sr. Sec School
+
+-------------------------------------------------------------------------------
+ Don't press any key!! .  .  .  .  .  .  .
+
+			      PROGRAM LOADED  
+			   ~~~~~~~~~~~~~~~~~~~~~~
+
+*/
+
+/*
+
+			     Enter The Password  : v‚„uk}uŒ (RANDOM VALUES)
+
+
+-------------------------------------------------------------------------------
+
+			      CORRECT ! Entry Allowed!!
+
+*/
+
+/*
+
+
+			     Enter The Password  :
+
+
+-------------------------------------------------------------------------------
+
+			 WRONG PASSWORD!! ENTRY REJECTED
+
+			   Press enter and try again
+*/
+
+/*
+
+			     Enter The Password  :
+
+
+-------------------------------------------------------------------------------
+
+			 WRONG PASSWORD!! ENTRY REJECTED
+
+			   Press enter and try again
+
+			you are not an authorised user
+
+			 the program will now exit
+
+*/
+
+/*
+
+
+
+
+			      SANDHU LIFECARE HOSPITAL
+			     ~~~~~~~~~~~~~~~~~~~~~~~~~~
+				    WELCOMES YOU
+				   ~~~~~~~~~~~~~~
+			      1. ABOUT THE HOSPITAL
+			      2. ABOUT THE PATIENTS
+			      3. ABOUT THE DOCTORS
+			      4. EXIT
+
+-------------------------------------------------------------------------------
+
+			      * ENTER YOUR CHOICE:-
+
+
+*/
+
+/*
+
+-------------------------------------------------------------------------------
+
+
+	       The SANDHU LIFECARE HOSPITAL was setup in year 1996
+
+	 by Mrs. Santosh Devi in association with the Red Cross Society.
+
+	    There are various branches in different parts of the country
+
+the very first branch was setup at Janak Puri, Delhi by the founder Chairperson.
+
+     All branches are approved by the Home Ministry of the respective
+
+  state and the head branch is recognised by the Home Ministry, Central Govt.
+
+	      The hospital provides internship of 4 years also.
+
+-------------------------------------------------------------------------------
+* press enter to return back
+
+*/
+
+/*
+			  PATIENTS MENU
+			  ~~~~~~~~~~~~~
+
+		      1. ADD PATIENT INFOMATION
+		      2. DISPLAY PATIENT INFOMATION
+		      3. DELETE PATIENT INFOMATION
+		      4. UPDATE PATIENT INFOMATION
+		      5. SEARCH PATIENT INFOMATION
+		      6. EXIT
+
+-------------------------------------------------------------------------------
+
+
+		      * ENTER YOUR CHOICE:-
+*/
+
+
+/*
+
+				  PATIENT ADD MENU:-
+
+ NAME OF PATIENT:- Mayank
+
+ ENTER THE GENDER:- M
+
+ ENTER THE AGE:- 17
+
+ ENTER DATE OF BIRTH (DATE/MONTH/YEAR):-  4/4/1996
+
+ ENTER THE DISEASE:- Viral Fever
+
+ ENTER THE DATE OF VISIT TO THE HOSPITAL(DATE/MONTH/YEAR):- 22/11/2013
+
+ ENTER THE PHONE NUMBER :- 9899598326
+
+ ENTER THE NAME OF DOCTOR IN-CHARGE:- Diwakar Mishra
+
+
+-------------------------------------------------------------------------------
+ press enter to return back
+
+*/
+/*
+
+			     PATIENT UPDATE MENU
+			     ~~~~~~~~~~~~~~~~~~~
+
+
+
+	  Enter The Name Of Patient Whose Record Is To Be Updated:-MAYANK
+
+
+
+
+			There Is No Patient With This Name
+
+			press enter to return to menu
+
+
+*/
+/*
+
+			     PATIENT UPDATE MENU
+			     ~~~~~~~~~~~~~~~~~~
+
+
+	  Enter The Name Of Patient Whose Record Is To Be Updated:-Kshitiz
+
+		
+
+ RECORD FOUND!!
+				 PATIENT DETAILS
+
+ NAME OF PATIENT:- kshitiz
+ GENDER:-
+ AGE:-
+ DATE OF BIRTH (DATE/MONTH/YEAR):-
+ DISEASE:-
+ DATE OF VISIT TO THE HOSPITAL(DATE/MONTH/YEAR):-
+ PHONE NUMBER:-
+ DOCTOR IN-CHARGE:-
+
+	 Press Enter To Add New Informaion
+				
+                                 NEW INFOMATION
+				 --------------
+
+ NAME OF PATIENT:- Mayank
+
+ ENTER THE GENDER:-
+
+ ENTER THE AGE:-
+
+ ENTER DATE OF BIRTH (DATE/MONTH/YEAR):-
+
+ ENTER THE DISEASE:-
+
+ ENTER THE DATE OF VISIT TO THE HOSPITAL(DATE/MONTH/YEAR):-
+
+ ENTER THE PHONE NUMBER :-
+
+ ENTER THE NAME OF DOCTOR IN-CHARGE:-
+
+		 Updating....
+
+		 !!UPDATED!!
+
+ press enter to return to menu
+
+*/
+
+/*
+
+
+			  DOCTORS MENU
+			  ~~~~~~~~~~~~~
+
+		      1. ADD DOCTOR INFOMATION
+		      2. DISPLAY DOCTORS INFOMATION
+		      3. DELETE DOCTOR INFOMATION
+		      4. UPDATE DOCTOR INFOMATION
+		      5. SEARCH DOCTOR INFOMATION
+		      6. EXIT
+
+-------------------------------------------------------------------------------
+
+
+		      * ENTER YOUR CHOICE:-
+*/
+
+
+/*
+
+				 DOCTOR ADD MENU:-
+ NAME OF DOCTOR:- ashish
+
+ ENTER DATE OF BIRTH (DATE/MONTH/YEAR):- 16/5/1996
+
+ ENTER THE PHONE NUMBER:- 25394537
+
+ ENTER THE ADDRESS:- A-4 (206) paschim vihar
+
+ ENTER THE QUALIFICATION:- M.B.B.S.
+
+ ENTER THE SPECIALISATION:- EYES
+
+ ENTER THE DATE OF JOINING THE HOSPITAL(DATE/MONTH/YEAR) :- 1/1/2001
+
+
+-------------------------------------------------------------------------------
+ press enter to return back
+
+*/
+/*
+
+			     DOCTOR UPDATE MENU
+			     ~~~~~~~~~~~~~~~~~~
+
+
+
+		Enter The Name OfDoctor Whose Record Is To Be Updated:-ashish
+	
+
+				 !!RECORD FOUND!!
+
+			 DOCTOR DETAILS
+
+ NAME OF DOCTOR :-ashish
+ DATE OF BIRTH:- 16/5/1996
+ PHONE NUMBER:- 25394537
+ ADDRESS:- A-4 (206) paschim vihar
+ QUALIFICATION:- M.B.B.S.
+ SPECIALISATION:- EYES
+ DATE OF JOINING THE HOSPITAL:- 1/1/2001
+
+	 Press Enter To Add New Informaion
+
+ NEW INFOMATION
+ --------------
+
+ NAME OF DOCTOR:- ankush
+
+ ENTER DATE OF BIRTH (DATE/MONTH/YEAR):-16/5/1996
+
+ ENTER THE PHONE NUMBER:-25394537
+
+ ENTER THE ADDRESS:-A-4 (206) paschim vihar
+
+ ENTER THE QUALIFICATION:-M.B.B.S.
+
+ ENTER THE SPECIALISATION:-EYES
+
+ ENTER THE DATE OF JOINING THE HOSPITAL(DATE/MONTH/YEAR) :- 1/1/2001
+
+
+		 Updating....
+
+		 UPDATED!!
+
+		 press enter to return to menu
+
+
+*/
+
+/*
+
+			THOUGHT OF THE EXECUTION
+			~~~~~~~~~~~~~~~~~~~~~~~~
+
+ Time is Money.   -Benjamin Franklin
+
+
+
+
+   The Program will exit now  . . . .
+
+*/
